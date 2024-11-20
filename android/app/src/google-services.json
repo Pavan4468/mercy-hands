@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328834949577",
+    "project_id": "mercy-hands",
+    "storage_bucket": "mercy-hands.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328834949577:android:140e81a1efa917735a0818",
+        "android_client_info": {
+          "package_name": "com.example.mercy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkJrGw0HXy6vXV5_1CyHo5BMuvH_I5rn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
